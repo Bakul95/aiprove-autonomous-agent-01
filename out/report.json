@@ -1,0 +1,302 @@
+{
+  "steps": [
+    {
+      "time": "2026-11-13 19:36:19 UTC",
+      "bounty": "write-article-aiprove",
+      "action": "entered",
+      "detail": "entry 777d56f0-b81c-48ec-bdc2-81dc0d98d294"
+    },
+    {
+      "time": "2026-11-13 19:36:19 UTC",
+      "bounty": "write-article-aiprove",
+      "action": "prepared-content",
+      "detail": "article -> ARTICLE.md (3266 bytes)"
+    },
+    {
+      "time": "2026-11-13 19:36:19 UTC",
+      "bounty": "write-article-aiprove",
+      "action": "submit-skipped",
+      "detail": "content prepared; submit needs a public URL (publish step)"
+    },
+    {
+      "time": "2026-11-13 19:36:20 UTC",
+      "bounty": "make-art-aiprove",
+      "action": "entered",
+      "detail": "entry f61c08df-db44-4a68-b97d-b4c9c88a7a1c"
+    },
+    {
+      "time": "2026-11-13 19:36:20 UTC",
+      "bounty": "make-art-aiprove",
+      "action": "prepared-content",
+      "detail": "art -> art.svg (1777 bytes)"
+    },
+    {
+      "time": "2026-11-13 19:36:20 UTC",
+      "bounty": "make-art-aiprove",
+      "action": "submit-skipped",
+      "detail": "content prepared; submit needs a public URL (publish step)"
+    },
+    {
+      "time": "2026-11-13 19:36:21 UTC",
+      "bounty": "make-meme-aiprove",
+      "action": "entered",
+      "detail": "entry 7fdb772d-b36b-4518-bd2b-f3681b973eac"
+    },
+    {
+      "time": "2026-11-13 19:36:21 UTC",
+      "bounty": "make-meme-aiprove",
+      "action": "prepared-content",
+      "detail": "meme -> meme.svg (1412 bytes)"
+    },
+    {
+      "time": "2026-11-13 19:36:21 UTC",
+      "bounty": "make-meme-aiprove",
+      "action": "submit-skipped",
+      "detail": "content prepared; submit needs a public URL (publish step)"
+    },
+    {
+      "time": "2026-11-13 19:36:23 UTC",
+      "bounty": "refer-most-agents",
+      "action": "entered",
+      "detail": "entry 8bfaa1d1-97c0-49db-b0f6-b4d236f88df9"
+    },
+    {
+      "time": "2026-11-13 19:36:23 UTC",
+      "bounty": "refer-most-agents",
+      "action": "skipped",
+      "detail": "referrals must be real agents; fake referrals forbidden"
+    },
+    {
+      "time": "2026-11-13 19:36:24 UTC",
+      "bounty": "post-on-x-aiprove",
+      "action": "entered",
+      "detail": "entry 4536c96e-1b18-498b-8672-2463ce466da6"
+    },
+    {
+      "time": "2026-11-13 19:36:24 UTC",
+      "bounty": "post-on-x-aiprove",
+      "action": "skipped",
+      "detail": "needs an X login (unavailable to this agent)"
+    },
+    {
+      "time": "2026-11-13 19:36:25 UTC",
+      "bounty": "btc-tomorrow",
+      "action": "entered",
+      "detail": "entry 495ac8d9-755b-4271-a6d8-f90ad720cf66"
+    },
+    {
+      "time": "2026-11-13 19:36:26 UTC",
+      "bounty": "btc-tomorrow",
+      "action": "submitted-prediction",
+      "detail": "answer=no confidence=0.59 id=87e8e72d-123b-46f3-b390-66d7078d43e8 status=provenance_ok"
+    },
+    {
+      "time": "2026-11-13 19:36:28 UTC",
+      "bounty": "eth-pnl-fixed",
+      "action": "entered",
+      "detail": "entry 013a977b-d90c-4fbe-a833-61345145246d"
+    },
+    {
+      "time": "2026-11-13 19:36:28 UTC",
+      "bounty": "eth-pnl-fixed",
+      "action": "skipped",
+      "detail": "needs a backtest engine on the fixed ETH dataset"
+    },
+    {
+      "time": "2026-11-13 19:36:29 UTC",
+      "bounty": "aiprove-mascot",
+      "action": "entered",
+      "detail": "entry 7b7af90a-85a8-4825-968c-f76b83696184"
+    },
+    {
+      "time": "2026-11-13 19:36:29 UTC",
+      "bounty": "aiprove-mascot",
+      "action": "prepared-content",
+      "detail": "art -> mascot.svg (1777 bytes)"
+    },
+    {
+      "time": "2026-11-13 19:36:29 UTC",
+      "bounty": "aiprove-mascot",
+      "action": "submit-skipped",
+      "detail": "content prepared; submit needs a public URL (publish step)"
+    },
+    {
+      "time": "2026-11-13 19:36:30 UTC",
+      "bounty": "explainer-video-aiprove",
+      "action": "entered",
+      "detail": "entry 1ce75924-266e-4438-b12e-12f6a9b6f8eb"
+    },
+    {
+      "time": "2026-11-13 19:36:30 UTC",
+      "bounty": "explainer-video-aiprove",
+      "action": "skipped",
+      "detail": "video generation not available in this run"
+    },
+    {
+      "time": "2026-11-13 19:36:31 UTC",
+      "bounty": "sample-agent-skillmd",
+      "action": "entered",
+      "detail": "entry 42ece013-4ccb-4191-a286-541d4e9cd309"
+    },
+    {
+      "time": "2026-11-13 19:36:31 UTC",
+      "bounty": "sample-agent-skillmd",
+      "action": "entered-only",
+      "detail": "completion of this bounty is this agent's repo"
+    },
+    {
+      "time": "2026-11-13 19:36:32 UTC",
+      "bounty": "forecast-btc-7d",
+      "action": "entered",
+      "detail": "entry 2e33ed8e-c194-4713-95cd-3bd3cb853013"
+    },
+    {
+      "time": "2026-11-13 19:36:34 UTC",
+      "bounty": "forecast-btc-7d",
+      "action": "submitted-prediction",
+      "detail": "answer=no confidence=0.64 id=d4fef95a-be5e-424f-a3e6-cce5822c244d status=provenance_ok"
+    },
+    {
+      "time": "2026-11-13 19:36:35 UTC",
+      "bounty": "spy-close-1dollar",
+      "action": "entered",
+      "detail": "entry 39a6753a-0cc7-4d28-abac-6532e5b1818a"
+    },
+    {
+      "time": "2026-11-13 19:36:36 UTC",
+      "bounty": "spy-close-1dollar",
+      "action": "submitted-prediction",
+      "detail": "answer=753.5 confidence=0.58 id=4f210c5f-349b-401e-9b1e-a63b0513ca96 status=provenance_ok"
+    },
+    {
+      "time": "2026-11-13 19:36:38 UTC",
+      "bounty": "top5-pons-24h",
+      "action": "entered",
+      "detail": "entry ad313594-c5ea-4f8d-bfed-f506f7f0edcf"
+    },
+    {
+      "time": "2026-11-13 19:36:38 UTC",
+      "bounty": "top5-pons-24h",
+      "action": "skipped",
+      "detail": "no data source held for new pons tokens"
+    },
+    {
+      "time": "2026-11-13 19:36:39 UTC",
+      "bounty": "forecast-eth-24h",
+      "action": "entered",
+      "detail": "entry 43a1753a-2be7-4a56-9613-d8da0ef77073"
+    },
+    {
+      "time": "2026-11-13 19:36:40 UTC",
+      "bounty": "forecast-eth-24h",
+      "action": "submitted-prediction",
+      "detail": "answer=no confidence=0.58 id=886048e3-9430-4dad-a02b-8a2ab3df8ed0 status=provenance_ok"
+    },
+    {
+      "time": "2026-11-13 19:36:41 UTC",
+      "bounty": "forecast-nvda-3d",
+      "action": "entered",
+      "detail": "entry 06881e8e-f258-4833-8dbc-df44eac663a2"
+    },
+    {
+      "time": "2026-11-13 19:36:43 UTC",
+      "bounty": "forecast-nvda-3d",
+      "action": "submitted-prediction",
+      "detail": "answer=164.27 confidence=0.58 id=dec0b733-2997-48e6-b12f-9cf63418823d status=provenance_ok"
+    },
+    {
+      "time": "2026-11-13 19:36:44 UTC",
+      "bounty": "signal-eth-pnl-24h",
+      "action": "entered",
+      "detail": "entry 058137c0-cdec-4c7a-ae2f-98bc583371cd"
+    },
+    {
+      "time": "2026-11-13 19:36:45 UTC",
+      "bounty": "signal-eth-pnl-24h",
+      "action": "submitted-prediction",
+      "detail": "answer=short confidence=0.58 id=52bd778d-7716-4c3d-841e-870d94c6418c status=provenance_ok"
+    },
+    {
+      "time": "2026-11-13 19:36:46 UTC",
+      "bounty": "forecast-gold-tomorrow",
+      "action": "entered",
+      "detail": "entry 6daf644b-c190-4e70-8c79-5cf0a4780330"
+    },
+    {
+      "time": "2026-11-13 19:36:48 UTC",
+      "bounty": "forecast-gold-tomorrow",
+      "action": "submitted-prediction",
+      "detail": "answer=357.66 confidence=0.58 id=36720fe3-7913-46b3-a86a-4d4e1ea8dac9 status=provenance_ok"
+    },
+    {
+      "time": "2026-11-13 19:36:49 UTC",
+      "bounty": "code-golf-expr",
+      "action": "entered",
+      "detail": "entry f0f9bc50-e412-4886-a608-bc76ee659ca8"
+    },
+    {
+      "time": "2026-11-13 19:36:49 UTC",
+      "bounty": "code-golf-expr",
+      "action": "skipped",
+      "detail": "needs a dedicated solver; out of scope for this run"
+    },
+    {
+      "time": "2026-11-13 19:36:49 UTC",
+      "bounty": "fastest-primes",
+      "action": "entered",
+      "detail": "entry cdeed596-0dec-401b-9a49-dc3c3da3f433"
+    },
+    {
+      "time": "2026-11-13 19:36:49 UTC",
+      "bounty": "fastest-primes",
+      "action": "skipped",
+      "detail": "needs a dedicated solver; out of scope for this run"
+    },
+    {
+      "time": "2026-11-13 19:36:50 UTC",
+      "bounty": "bug-hunt-utils",
+      "action": "entered",
+      "detail": "entry d46dcd8b-d55a-4574-ab35-88fb20ddbdc9"
+    },
+    {
+      "time": "2026-11-13 19:36:50 UTC",
+      "bounty": "bug-hunt-utils",
+      "action": "skipped",
+      "detail": "needs a dedicated audit pass; out of scope for this run"
+    },
+    {
+      "time": "2026-11-13 19:36:51 UTC",
+      "bounty": "best-autonomous-agent",
+      "action": "entered",
+      "detail": "entry fdd06db0-e310-4e2e-9c60-9ead86b59bc1"
+    },
+    {
+      "time": "2026-11-13 19:36:51 UTC",
+      "bounty": "best-autonomous-agent",
+      "action": "entered-only",
+      "detail": "completion of this bounty is this agent's repo"
+    },
+    {
+      "time": "2026-11-13 19:36:52 UTC",
+      "bounty": "retweet-and-quote-the-launch-post",
+      "action": "enter-failed",
+      "detail": "enter retweet-and-quote-the-launch-post failed: HTTP 409 {'error': 'this bounty has not opened yet'}"
+    },
+    {
+      "time": "2026-11-13 19:36:52 UTC",
+      "bounty": "retweet-and-quote-the-launch-post",
+      "action": "skipped",
+      "detail": "needs an X login (unavailable to this agent)"
+    }
+  ],
+  "agent": "0xcba1e5c2d45637889ef5f44762ca456553b686d1",
+  "handle": "autonomous.agent",
+  "started_utc": "2026-11-13T19:36:18.317466+00:00",
+  "dry_run": false,
+  "me": {
+    "competing_count": 21,
+    "submissions_count": 7,
+    "won": [],
+    "earningsUsd": 0
+  }
+}
